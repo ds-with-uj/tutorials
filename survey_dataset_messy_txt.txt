@@ -1,0 +1,107 @@
+customer_id,email,phone,address,rewards_member,survey_date,survey_time,satisfaction_rating,service_feedback,product_quality,visit_frequency,recommend_to_friend,freetext_response
+1,jane.smith@email.com,,"123 Main St, Springfield, IL",Yes,2026-01-03,08:30,4,Good service,High,3,Yes,        Loved the latte
+1,jane.smith@email.com,,"123 Main St, Springfield, IL",Yes,2026-01-03,15:45,5,Excellent,High,3,Yes,  Even better later
+2,,555-123-4567,"456 Elm St, Shelbyville, IL",No,2026/01/05,10:15,3,average service,Medium,2,No,  Crowded
+2,,555-123-4567,"456 Elm St, Shelbyville, IL",No,2026/01/05,18:00,4,Good service,Medium,2,No,Improved later
+3,bob@email.com,555-221-1111,"789 Oak St, Ogdenville, IL",Yes,01-06-2026,09:00,5,Excellent!,High,4,Yes,Great place
+4,,,"101 Maple Ave, Capital City, IL",Yes,2026-01-07,11:00,2,Poor service ,Low,1,No,Long wait
+5,sara@email.com,,"202 Pine Rd, Springfield, IL",YES,2026-01-07,13:30,4,good service,High,3,Yes,Friendly staff
+6,,555-999-8888,"303 Birch Blvd, Shelbyville, IL",No,2026-01-08,08:45,1,Poor service,Low,1,No,  Not happy
+7,mike@email.com,,"444 Cedar St, Ogdenville, IL",Yes,2026-01-08,17:00,,Average,Medium,2,Yes,It was fine
+8,,555-333-2222,"505 Walnut St, Capital City, IL",No,2026-01-09,12:00,3,average service,Medium,2,No,Nothing special
+8,,555-333-2222,"505 Walnut St, Capital City, IL",No,2026-01-09,12:00,3,average service,Medium,2,No,Nothing special
+9,lisa@email.com,,"606 Chestnut Ave, Springfield, IL",Yes,2026-01-09,14:00,5,Excellent,High,4,Yes,  Amazing
+10,,,"707 Spruce Ln, Shelbyville, IL",No,2026-01-10,09:30,2,Poor service,Low,1,No,Slow service
+11,jane@email.com,,"321 Lane St, Springfield, IL",Yes,2026-01-11,08:10,5,Excellent,High,3,Yes,  Still great
+12,,555-321-7645,"745 Oak St, Shelbyville, IL",No,2026-01-11,10:20,3,Average service,Medium,2,No,Busy again
+13,robert@email.com,555-444-1111,"123 Test Ln, Ogdenville, IL",Yes,2026-01-12,09:05,4,Good Service,High,4,Yes,  Consistent
+14,,,"100 Maple Ave, Capital City, IL",Yes,2026-01-12,11:45,,Poor service,Low,1,No,Still slow
+15,sara.johnson@email.com,,"202 Pinecone Rd, Springfield, IL",Yes,2026-01-13,13:15,4,good service,High,3,Yes,Nice visit
+16,,555-999-9999,"300 Birch Blvd, Shelbyville, IL",No,2026-01-13,08:40,2,Poor service,Low,1,No,Not improving
+17,john@email.com,,"404 Cedar St, Ogdenville, IL",Yes,2026-01-14,17:20,3,Average,Medium,2,Yes,Okay
+18,,555-321-2222,"505 Pine St, Capital City, IL",No,2026-01-14,12:30,3,average service,Medium,2,No,Same
+19,alex@email.com,,"606 Rose Ave, Springfield, IL",Yes,2026-01-15,14:10,5,Excellent,High,4,Yes,Love it
+20,,,"707 Sycamore Ln, Shelbyville, IL",No,2026-01-15,09:25,1,Poor service,Low,1,No,Worst visit
+21,sally.smith@email.com,,"987 General Ln, Springfield, IL",Yes,2026-01-16,08:35,4,Good service,High,3,Yes,Good again
+22,,555-222-2222,"543 Birch St, Shelbyville, IL",No,2026-01-16,10:10,3,average service,Medium,2,No,Okay
+23,bob123@email.com,555-123-1111,"9876 Center St, Ogdenville, IL",Yes,2026-01-17,09:15,5,Excellent,High,4,Yes,  Perfect
+24,,,"500 Middle Ave, Capital City, IL",Yes,2026-01-17,11:30,2,Poor service,Low,1,No,Long wait
+25,sara91@email.com,,"123 Eagle Rd, Springfield, IL",YES,2026-01-18,13:45,4,good service,High,3,Yes, Nice
+25,sara91@email.com,,"123 Eagle Rd, Springfield, IL",YES,2026-01-18,13:45,4,good service,High,3,Yes, Nice
+26,,555-987-8888,"305 Birch Blvd, Shelbyville, IL",No,2026-01-18,08:50,1,Poor service,Low,1,No,Bad
+27,michael@email.com,,"200 Cedar Rd, Ogdenville, IL",Yes,2026-01-19,17:10,3,Average,Medium,2,Yes,Okay
+28,,555-777-2222,"505 Pine Ln, Capital City, IL",no,2026-01-19,12:05,3,average service,Medium,2,No,Same
+29,leslie@email.com,,"700 Chestnut Ave, Springfield, IL",Yes,2026-01-20,14:20,5,Excellent,High,4,Yes,Great
+30,,,"707 Swift Ln, Shelbyville, IL",No,2026-01-20,09:40,2,Poor service,Low,1,No,Slow
+31,hr364@email.com,,"202 Main St, Springfield, IL",Yes,2026-01-21,08:30,4,Good service,High,3,Yes,Good
+32,,555-123-7654,"456 Book St, Shelbyville, IL",No,2026-01-21,10:15,3,average service,Medium,2,No,Crowded
+33,username01@email.com,555-333-1111,"345 Rose Ln, Ogdenville, IL",Yes,2026-01-22,09:00,5,Excellent,High,4,Yes,Loved it
+34,,,"200 Spruce Ln, Capital City, IL",Yes,2026-01-22,11:00,2,Poor service,Low,1,No,Slow
+35,michelle@email.com,,"367 Pine Ct, Springfield, IL",Yes,2026-01-23,13:00,4,good service,High,3,Yes,Nice
+36,,555-123-8888,"300 Main Blvd, Shelbyville, IL",No,2026-01-23,08:45,1,Poor service,Low,1,No,Bad
+37,mike2@email.com,,"400 Cedar St, Ogdenville, IL",Yes,2026-01-24,17:30,3,Average,Medium,2,Yes,Okay
+38,,555-221-2222,"400 Walnut St, Capital City, IL",No,2026-01-24,12:30,3,average service,Medium,2,No,Same
+39,lisa75@email.com,,"600 Chestnut Ave, Springfield, IL",Yes,2026-01-25,14:10,5,Excellent,High,4,Yes,Great
+40,,,"789 Magnolia Ln, Shelbyville, IL",No,2026-01-25,09:20,2,Poor service,Low,1,No,Slow
+41,jane123@email.com,,"456 Main St, Springfield, IL",Yes,2026-01-26,08:30,4,Good service,High,3,Yes,Good
+42,,555-555-1234,"357 Elm St, Shelbyville, IL",No,2026-01-26,10:15,3,average service,Medium,2,No,Crowded
+43,bob23@email.com,555-222-4321,"300 Oak St, Ogdenville, IL",Yes,2026-01-27,09:00,5,Excellent,High,4,Yes,Perfect
+44,,,"100 Willow St, Capital City, IL",Yes,2026-01-27,11:00,2,Poor service,Low,1,No,Slow
+45,ava@email.com,,"202 Maple Rd, Springfield, IL",Yes,2026-01-28,13:00,4,good service,High,3,Yes,Nice
+46,,555-888-8888,"303 Coconut Blvd, Shelbyville, IL",No,2026-01-28,08:45,1,Poor service,Low,1,No,Bad
+47,bill@email.com,,"404 Olive St, Ogdenville, IL",yes,2026-01-29,17:30,3,Average,Medium,2,Yes,Okay
+48,,555-2222-2222,"505 Willow St, Capital City, IL",No,2026-01-29,12:30,3,average service,Medium,2,No,Same
+49,user123@email.com,,"600 Magnolia Ave, Springfield, IL",Yes,2026-01-30,14:10,5,Excellent,High,4,Yes,Great
+50,,,"707 Center Ln, Shelbyville, IL",No,2026-01-30,09:20,2,Poor service,Low,1,No,Slow
+51,jennifer.smith@email.com,,"123 Olive St, Springfield, IL",Yes,2026-01-31,08:30,4,Good service,High,3,Yes,Good
+51,jennifer.smith@email.com,,"123 Olive St, Springfield, IL",Yes,2026-01-31,10:30,5,Great service,High,3,Yes,Good
+52,,555-321-4567,"500 Center Rd, Shelbyville, IL",No,2026-01-31,10:15,3,average service,Medium,2,No,Crowded
+53,bob101@email.com,555-111-1111,"300 Spruce Ln, Ogdenville, IL",Yes,2026-01-31,15:00,5,Excellent,High,4,Yes,Perfect
+54,,,"505 Magnolia Ave, Capital City, IL",Yes,2026-01-31,16:30,2,Poor service,Low,1,No,Slow
+55,jessie@email.com,,"202 Cedar Rd, Springfield, IL",Yes,2026-01-31,17:45,4,good service,High,3,Yes,Nice
+56,,555-999-7777,"200 Bluebird Blvd, Shelbyville, IL",No,2026-01-31,18:10,1,Poor service,Low,1,No,Bad
+57,matt@email.com,,"505 Olive St, Ogdenville, IL",Yes,2026-01-31,18:30,3,Average,Medium,2,Yes,Okay
+58,,555-555-2222,"505 Main St, Capital City, IL",no,2026-01-31,19:00,3,average service,Medium,2,No,Same
+59,lise@email.com,,"100 Chestnut Ave, Springfield, IL",Yes,2026-01-31,19:30,5,Excellent,High,4,Yes,Great
+60,,,"7100 Spruce Ln, Shelbyville, IL",No,2026-01-31,20:00,2,Poor service,Low,1,No,Slow
+61,jane.doe@email.com,,"123 Upland St, Springfield, IL",Yes,2026-02-01,08:30,4,Good service,High,3,Yes,Good
+62,,555-555-4567,"456 Magnolia St, Shelbyville, IL",No,2026-02-01,10:15,3,average service,Medium,2,No,Crowded
+63,bob32@email.com,555-222-1111,"789 Birch St, Ogdenville, IL",Yes,2026-02-01,15:00,5,Excellent,High,4,Yes,Perfect
+64,,,"101 Paper Ave, Capital City, IL",Yes,2026-02-01,16:30,2,Poor service,Low,1,No,Slow
+65,sara@email.com,,"101 Pine Rd, Springfield, IL",Yes,2026-02-01,17:45,4,good service,High,3,Yes,Nice
+66,,555-111-7777,"303 Bluebird Blvd, Shelbyville, IL",No,2026-02-01,18:10,1,Poor service,Low,1,No,Bad
+67,mike@email.com,,"123 Cedar St, Ogdenville, IL",Yes,2026-02-01,18:30,3,Average,Medium,2,Yes,Okay
+68,,555-999-2222,"505 Bronze St, Capital City, IL",No,2026-02-01,19:00,3,average service,Medium,2,No,Same
+69,lisa@email.com,,"606 Spruce Ave, Springfield, IL",Yes,2026-02-01,19:30,5,Excellent,High,4,Yes,Great
+70,,,"707 Olive Ln, Shelbyville, IL",No,2026-02-01,20:00,2,Poor service,Low,1,No,Slow
+71,jdoe@email.com,,"987 Book Ln, Springfield, IL",Yes,2026-02-02,08:30,4,Good service,High,3,Yes,Good
+71,jdoe@email.com,,"987 Book Ln, Springfield, IL",Yes,2026-02-02,08:30,4,Good service,High,3,Yes,Good
+72,,555-555-4444,"111 Elm St, Shelbyville, IL",No,2026-02-02,10:15,3,average service,Medium,2,No,Crowded
+73,victor@email.com,555-123-2222,"123 Oak St, Ogdenville, IL",Yes,2026-02-02,15:00,5,Excellent,High,4,Yes,Perfect
+74,,,"202 Maple Ln, Capital City, IL",Yes,2026-02-02,16:30,2,Poor service,Low,1,No,Slow
+75,emily95@email.com,,"400 Coconut Rd, Springfield, IL",Yes,2026-02-02,17:45,4,good service,High,3,Yes,Nice
+76,,555-999-9876,"303 Spruce Blvd, Shelbyville, IL",No,2026-02-02,18:10,1,Poor service,Low,1,No,Bad
+77,elle@email.com,,"505 Rose Ave, Ogdenville, IL",Yes,2026-02-02,18:30,3,Average,Medium,2,Yes,Okay
+78,,555-888-2222,"101 Walnut St, Capital City, IL",no,2026-02-02,19:00,3,average service,Medium,2,No,Same
+79,jackie@email.com,,"700 Sycamore Ave, Springfield, IL",Yes,2026-02-02,19:30,5,Excellent,High,4,Yes,Great
+80,,,"300 Success Ln, Shelbyville, IL",No,2026-02-02,20:00,2,Poor service,Low,1,No,Slow
+81,j6555@email.com,,"123 Center St, Springfield, IL",Yes,2026-02-03,08:30,4,Good service,High,3,Yes,Good
+82,,555-123-5555,"456 Sycamore St, Shelbyville, IL",No,2026-02-03,10:15,3,average service,Medium,2,No,Crowded
+83,marty@email.com,555-321-1111,"789 Olive St, Ogdenville, IL",Yes,2026-02-03,15:00,5,Excellent,High,4,Yes,Perfect
+84,,,"505 Service Ave, Capital City, IL",Yes,2026-02-03,16:30,2,Poor service,Low,1,No,Slow
+85,katiel@email.com,,"202 Clove Rd, Springfield, IL",Yes,2026-02-03,17:45,4,good service,High,3,Yes,Nice
+86,,555-555-7777,"303 Silver Blvd, Shelbyville, IL",NO,2026-02-03,18:10,1,Poor service,Low,1,No,Bad
+87,eddie@email.com,,"321 Olive St, Ogdenville, IL",YES,2026-02-03,18:30,3,Average,Medium,2,Yes,Okay
+88,,555-111-2222,"505 Dragon St, Capital City, IL",No,2026-02-03,19:00,3,average service,Medium,2,No,Same
+89,marcie.smith@email.com,,"201 Chestnut Ave, Springfield, IL",Yes,2026-02-03,19:30,5,Excellent,High,4,Yes,Great
+90,,,"707 Silver Ln, Shelbyville, IL",No,2026-02-03,20:00,2,Poor service,Low,1,No,Slow
+91,jjohne@email.com,,"345 Main St, Springfield, IL",Yes,2026-02-04,08:30,4,Good service,High,3,Yes,Good
+92,,555-321-1234,"123 Elm St, Shelbyville, IL",No,2026-02-04,10:15,3,average service,Medium,2,No,Crowded
+93,john@email.com,555-555-1111,"987 Spruce St, Ogdenville, IL",Yes,2026-02-04,15:00,5,Excellent,High,4,Yes,Perfect
+94,,,"101 Sycamore Ave, Capital City, IL",Yes,2026-02-04,16:30,2,Poor service,Low,1,No,Slow
+95,member123@email.com,,"202 Pecan Rd, Springfield, IL",Yes,2026-02-04,17:45,4,good service,High,3,Yes,Nice
+96,,555-111-8888,"400 Birch Blvd, Shelbyville, IL",No,2026-02-04,18:10,1,Poor service,Low,1,No,Bad
+97,mikie@email.com,,"123 Olive St, Ogdenville, IL",yes,2026-02-04,18:30,3,Average,Medium,2,Yes,Okay
+98,,555-444-2222,"900 Walnut St, Capital City, IL",No,2026-02-04,19:00,3,average service,Medium,2,No,Same
+99,laurenw@email.com,,"606 Walnut Ave, Springfield, IL",Yes,2026-02-04,19:30,5,Excellent,High,4,Yes,Great
+100,,,"765 Penny Ln, Shelbyville, IL",No,2026-02-04,20:00,2,Poor service,Low,1,No,Slow
